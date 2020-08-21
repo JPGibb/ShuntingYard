@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShuntingYard", "ShuntingYard\ShuntingYard.vcxproj", "{5D738A38-D843-4186-9C37-089008F7D38C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D738A38-D843-4186-9C37-089008F7D38C}.Debug|x64.ActiveCfg = Debug|x64
+		{5D738A38-D843-4186-9C37-089008F7D38C}.Debug|x64.Build.0 = Debug|x64
+		{5D738A38-D843-4186-9C37-089008F7D38C}.Debug|x86.ActiveCfg = Debug|Win32
+		{5D738A38-D843-4186-9C37-089008F7D38C}.Debug|x86.Build.0 = Debug|Win32
+		{5D738A38-D843-4186-9C37-089008F7D38C}.Release|x64.ActiveCfg = Release|x64
+		{5D738A38-D843-4186-9C37-089008F7D38C}.Release|x64.Build.0 = Release|x64
+		{5D738A38-D843-4186-9C37-089008F7D38C}.Release|x86.ActiveCfg = Release|Win32
+		{5D738A38-D843-4186-9C37-089008F7D38C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE5330CD-9830-4FD7-9E73-FC4594F5CE4A}
+	EndGlobalSection
+EndGlobal
